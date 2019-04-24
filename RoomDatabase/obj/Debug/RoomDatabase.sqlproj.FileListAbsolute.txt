@@ -1,0 +1,6 @@
+D:\GitHub\Dip_weeklytask\RoomDatabase\bin\Debug\RoomDatabase.dacpac
+D:\GitHub\Dip_weeklytask\RoomDatabase\bin\Debug\RoomDatabase.dll
+D:\GitHub\Dip_weeklytask\RoomDatabase\bin\Debug\RoomDatabase.pdb
+D:\GitHub\Dip_weeklytask\RoomDatabase\obj\Debug\RoomDatabase.sqlprojAssemblyReference.cache
+D:\GitHub\Dip_weeklytask\RoomDatabase\obj\Debug\RoomDatabase.dll
+D:\GitHub\Dip_weeklytask\RoomDatabase\obj\Debug\RoomDatabase.pdb
